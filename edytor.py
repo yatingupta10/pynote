@@ -7,6 +7,10 @@
 #
 # WARNING! All changes made in this file will be lost!
 
+# Created by Yatin Gupta
+# github username : yatingupta10
+# website : http://www.yatingupta.me/
+
 import sys
 from PyQt4 import QtCore, QtGui
 
