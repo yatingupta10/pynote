@@ -1,4 +1,9 @@
 # -*- coding: utf-8 -*-
+
+# Created by Yatin Gupta
+# github username : yatingupta10
+# website : http://www.yatingupta.me/
+
 import sys
 from PyQt4 import QtCore, QtGui
 from edytor import Ui_notepad
