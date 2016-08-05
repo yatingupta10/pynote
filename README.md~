@@ -6,8 +6,8 @@ Basic notepad/editor using python
 
 `sudo apt-get install python-qt4`
 
-`cd pynote`
+`pyuic4 edytorEN.ui > edytor.py`
 
-`pyuic4 edytor.ui > edytor.py`
+`cd pynote`
 
 `python start.py`
