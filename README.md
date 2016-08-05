@@ -8,6 +8,6 @@ Basic notepad/editor using python
 
 `cd pynote`
 
-`pyuic4 edytor.ui > edytor.py`
+`pyuic4 edytorEN.ui > edytor.py`
 
 `python start.py`
